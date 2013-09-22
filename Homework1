@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Welcome!!!</title>
+</head>
+<body>
+    <font face="Arial" Color="green">
+    <center><h1>Reyes, Marcus</h1></center>
+    <hr width="75%" color="Blue" size="6" />
+    <center><h2><i>Welcome to IS 445 Homework #1</i></h2></center>
+    <center><img src="https://scontent-a-pao.xx.fbcdn.net/hphotos-prn1/163829_1766091633658_2238724_n.jpg" 
+        title="This is me!" height="275" width="230" /></center>
+    
+    <h3><b><i><u>About me</u></i></b></h3>
+    <p>
+        My name is Marcus. This is my third year at CSULB. 
+        I was originally an accounting major and then changed to MIS after taking IS300.
+        I have always liked technology. On my freetime I play hockey, softball, and golf. 
+    </p>
+    <h3><b><i><u>Education</u></i></b></h3>
+    <ol>
+        <li>2010; A.A.; Business Admin.; Cerritos College</li>
+        <li>2013; B.S.; MIS; California State University, Long Beach</li>
+    </ol>
+    <h3><b><i><u>Work Experience</u></i></b></h3>
+    <ul>
+        <li>Ride Operator; Disneyland Resort; 7 yrs</li>
+    </ul>
+    <h3><u><i><b>Course Expectations</b></i></u></h3>
+    <p>I expect to learn enough to get a job. I really need experience out in the field. 
+        I had previously taken IS 340 which I found quite enjoyable.
+     
+        I remember taking a HTML class back in high school and loving it. 
+    </p>
+    </font>
+</body>
+</html>
